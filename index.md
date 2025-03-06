@@ -1,6 +1,4 @@
-## Hey, I'm Dennis.
-Electrical Engineering & Physics Dual-Degree Student
-
+---
 > "Good engineering is about understanding the limits and making them work for you."  
 
 ### What I Work On
