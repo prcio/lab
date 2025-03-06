@@ -1,6 +1,15 @@
 title: "Dennis Garcia"
-description: "Dual-Degree Student in Electrical Engineering & Physics | Computational Modeling & Simulations"
+description: "Engineering & Physics | Computational Modeling"
 baseurl: "/"    
+url: "https://prcio.github.io"
+
 remote_theme: riggraz/no-style-please
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
+theme_config:
+  appearance: "auto"
+  show_description: true
