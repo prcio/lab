@@ -1,6 +1,6 @@
 title: "Dennis Garcia"
 description: "Engineering & Physics | Computational Modeling"
-baseurl: "/"    
+baseurl: "/lab"    
 url: "https://prcio.github.io"
 
 remote_theme: riggraz/no-style-please
