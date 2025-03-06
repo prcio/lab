@@ -1,15 +1,9 @@
-
----
-layout: default
-title: "Dennis Garcia"
----
-
-# 👋 Hey, I'm Dennis.
+# Hey, I'm Dennis.
 I'm an **Electrical Engineering & Physics student** exploring **computational modeling, embedded systems, and software development**. I enjoy **solving complex problems** and **building things that work in the real world.**
 
 > "Good engineering is about understanding the limits and making them work for you."  
 
-### 🚀 What I Work On
+### What I Work On
 - **Physics Simulations & Computational Modeling**  
   (numerical methods, rocket trajectory sims, PDEs)  
 - **Embedded Systems & Hardware**  
@@ -18,11 +12,11 @@ I'm an **Electrical Engineering & Physics student** exploring **computational mo
   (Python, C++, firmware, system architecture)  
 
 ### 🛠 Current Projects
-- 🛰 **Rocket Trajectory Simulation** (numerical integration & atmospheric modeling)  
-- 🔬 **Custom Embedded Data Logger** (ARM-based microcontroller firmware)  
-- ⚡ **Electrical System Optimization for Robotics**  
+-  **Rocket Trajectory Simulation** (numerical integration & atmospheric modeling)  
+-  **Custom Embedded Data Logger** (ARM-based microcontroller firmware)  
+-  **Electrical System Optimization for Robotics**  
 
-### 🎯 Interests  
+### Interests  
 Computational physics, control systems, aerospace engineering, embedded software, and designing things that push boundaries.
 
 📬 **Reach out:**  
