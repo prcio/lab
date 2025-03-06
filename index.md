@@ -1,5 +1,5 @@
-# Hey, I'm Dennis.
-I'm an **Electrical Engineering & Physics student** exploring **computational modeling, embedded systems, and software development**. I enjoy **solving complex problems** and **building things that work in the real world.**
+## Hey, I'm Dennis.
+Electrical Engineering & Physics Dual-Degree Student
 
 > "Good engineering is about understanding the limits and making them work for you."  
 
@@ -11,7 +11,7 @@ I'm an **Electrical Engineering & Physics student** exploring **computational mo
 - **Software & Automation**  
   (Python, C++, firmware, system architecture)  
 
-### 🛠 Current Projects
+###  Current Projects
 -  **Rocket Trajectory Simulation** (numerical integration & atmospheric modeling)  
 -  **Custom Embedded Data Logger** (ARM-based microcontroller firmware)  
 -  **Electrical System Optimization for Robotics**  
